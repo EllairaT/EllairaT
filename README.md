@@ -1,7 +1,12 @@
-### Heyyyyyyyyyyy
 
+<p align="center">
+<samp>jack of all trades, master of <s>none</s> some</samp>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllairaT&show_icons=true&theme=radical)
+<p align="center">
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=EllairaT&show_icons=true&theme=radical">
+<img align="center"   height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllairaT&theme=radical&layout=compact">
+</p>
 
+*\*I am not a cat*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllairaT&theme=radical)
+*\*I also like learning and trying new things*
