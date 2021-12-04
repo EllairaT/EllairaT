@@ -2,11 +2,11 @@
 <p align="center">
   <samp>jack of all trades, master of <s>none</s> some</samp>
 </p>
-<hr>
+<hr style="color:#919090; background-color:#919090; height:1px; border:none;">
+
 <p align="center"> 
-   I am not a cat <br>
-   but I <i>am</i> a programmer. <br>
-  </p>
+   I like to make pretty things that <b><i>work</i></b>
+</p>
   
 <h4 align="center">The things I've worked with:</h4>
 <p align="center"> 
@@ -25,10 +25,6 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
 </p>
 
 <h4 align="center">The stuff I like to use to do things:</h4>
@@ -36,6 +32,10 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
 </p>
 
 <h4 align="center">Some stats:</h4>
@@ -49,6 +49,5 @@
 <p align="center">
   <img src="https://dcbadge.vercel.app/api/shield/272571655799439361?&theme=default-inverted&logoColor=ae81ce" /><br>
   <a href="mailto:ellaira@outlook.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><br>
-  <a href="www.linkedin.com/in/ellaira-torio" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+  <a href="www.linkedin.com/in/ellaira-torio" target="blank"><img src="https://img.shields.io/badge/Ellaira%20Torio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
