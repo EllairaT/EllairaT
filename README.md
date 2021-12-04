@@ -2,7 +2,7 @@
 <p align="center">
   <samp>jack of all trades, master of <s>none</s> some</samp>
 </p>
-<hr style="color:#919090; background-color:#919090; height:1px; border:none;">
+<hr>
 
 <p align="center"> 
    I like to make pretty things that <b><i>work</i></b>
@@ -41,13 +41,12 @@
 <h4 align="center">Some stats:</h4>
 <p align="center"> 
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=EllairaT&show_icons=true&theme=radical">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vipera&layout=compact&theme=radical">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllairaT&theme=radical&layout=compact">
 </p>
 
 <h4 align="center">Get in touch:</h4>
 <p align="center">
-  <img src="https://dcbadge.vercel.app/api/shield/272571655799439361?&theme=default-inverted&logoColor=ae81ce"/><br>
+  <img src="https://dcbadge.vercel.app/api/shield/272571655799439361?&theme=default-inverted&logoColor=ae81ce"><br>
   <a href="mailto:ellaira@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><br>
   <a href="https://www.linkedin.com/in/ellaira-torio" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
