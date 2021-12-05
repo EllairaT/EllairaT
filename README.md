@@ -46,7 +46,7 @@
 
 <h4 align="center">Get in touch:</h4>
 <p align="center">
-  <img src="https://dcbadge.vercel.app/api/shield/272571655799439361?&theme=default-inverted&logoColor=ae81ce"><br>
+  <img src="https://dcbadge.vercel.app/api/shield/272571655799439361?&theme=default&compact=true"><br>
   <a href="mailto:ellaira@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><br>
   <a href="https://www.linkedin.com/in/ellaira-torio" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
