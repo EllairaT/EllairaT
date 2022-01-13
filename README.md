@@ -42,6 +42,7 @@
 <p align="center"> 
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=EllairaT&show_icons=true&theme=radical">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllairaT&theme=radical&layout=compact">
+   <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vipera&layout=compact&theme=radical">
 </p>
 
 <h4 align="center">Get in touch:</h4>
